@@ -1,4 +1,4 @@
-# codewars
+# Codewars
 Сборник решённых задач на Codewars.
 
 
